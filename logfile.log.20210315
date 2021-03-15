@@ -1,0 +1,173 @@
+
+2021-03-15 12:27:49.287 [INFO] : LOAD - Core object loaded from core.json
+2021-03-15 12:27:49.453 [INFO] : BUY - Waited 0 minutes for 70,203,000, curr_price:69,510,000, diff:693,000
+2021-03-15 12:33:26.969 [INFO] : BUY - Waited 5 minutes for 70,203,000, curr_price:69,550,000, diff:653,000
+2021-03-15 12:39:04.698 [INFO] : BUY - Waited 10 minutes for 70,203,000, curr_price:69,630,000, diff:573,000
+2021-03-15 12:44:41.596 [INFO] : BUY - Waited 15 minutes for 70,203,000, curr_price:69,700,000, diff:503,000
+2021-03-15 12:47:08.475 [INFO] : SAVE - Core object saved to core.json
+2021-03-15 12:49:12.757 [INFO] : LOAD - Core object loaded from core.json
+2021-03-15 12:49:43.612 [INFO] : LOAD - Core object loaded from core.json
+2021-03-15 12:49:46.505 [INFO] : BUY - Waited 0 minutes for 70,203,000, curr_price:69,854,000, diff:349,000
+2021-03-15 12:50:26.864 [INFO] : SAVE - Core object saved to core.json
+2021-03-15 12:50:47.901 [INFO] : LOAD - Core object loaded from core.json
+2021-03-15 12:50:50.756 [INFO] : BUY - Waited 0 minutes for 70,203,000, curr_price:69,840,000, diff:363,000
+2021-03-15 12:51:35.291 [INFO] : SAVE - Core object saved to core.json
+2021-03-15 12:51:45.431 [INFO] : LOAD - Core object loaded from core.json
+2021-03-15 12:51:48.318 [INFO] : BUY - Waited 0 minutes for 70,203,000, curr_price:69,811,000, diff:392,000
+2021-03-15 12:52:55.272 [INFO] : SAVE - Core object saved to core.json
+2021-03-15 12:54:03.794 [INFO] : LOAD - Core object loaded from core.json
+2021-03-15 12:54:06.740 [INFO] : BUY - Waited 0 minutes for 70,203,000, curr_price:69,800,000, diff:403,000
+2021-03-15 12:55:10.489 [INFO] : SAVE - Core object saved to core.json
+2021-03-15 12:55:14.628 [INFO] : LOAD - Core object loaded from core.json
+2021-03-15 12:55:17.577 [INFO] : BUY - Waited 0 minutes for 70,203,000, curr_price:69,810,000, diff:393,000
+2021-03-15 12:55:47.552 [INFO] : SAVE - Core object saved to core.json
+2021-03-15 12:56:00.659 [INFO] : LOAD - Core object loaded from core.json
+2021-03-15 12:56:43.430 [INFO] : LOAD - Core object loaded from core.json
+2021-03-15 12:57:02.864 [INFO] : LOAD - Core object loaded from core.json
+2021-03-15 12:57:05.820 [INFO] : BUY - Waited 0 minutes for 70,203,000, curr_price:69,809,000, diff:394,000
+2021-03-15 12:57:15.784 [INFO] : SAVE - Core object saved to core.json
+2021-03-15 12:57:31.577 [INFO] : LOAD - Core object loaded from core.json
+2021-03-15 12:57:34.461 [INFO] : BUY - Waited 0 minutes for 70,203,000, curr_price:69,818,000, diff:385,000
+2021-03-15 12:58:47.997 [INFO] : SAVE - Core object saved to core.json
+2021-03-15 13:00:32.167 [INFO] : LOAD - Core object loaded from core.json
+2021-03-15 13:00:35.873 [INFO] : BUY - Waited 0 minutes for 70,203,000, curr_price:69,990,000, diff:213,000
+2021-03-15 13:06:12.366 [INFO] : BUY - Waited 5 minutes for 70,203,000, curr_price:70,001,000, diff:202,000
+2021-03-15 13:11:48.481 [INFO] : BUY - Waited 10 minutes for 70,203,000, curr_price:70,005,000, diff:198,000
+2021-03-15 13:17:25.370 [INFO] : BUY - Waited 15 minutes for 70,203,000, curr_price:69,759,000, diff:444,000
+2021-03-15 13:23:22.176 [INFO] : BUY - Waited 20 minutes for 70,203,000, curr_price:69,860,000, diff:343,000
+2021-03-15 13:28:58.520 [INFO] : BUY - Waited 25 minutes for 70,203,000, curr_price:69,815,000, diff:388,000
+2021-03-15 13:34:34.294 [INFO] : BUY - Waited 30 minutes for 70,203,000, curr_price:69,501,000, diff:702,000
+2021-03-15 13:40:10.489 [INFO] : BUY - Waited 35 minutes for 70,203,000, curr_price:69,499,000, diff:704,000
+2021-03-15 13:45:47.696 [INFO] : BUY - Waited 40 minutes for 70,203,000, curr_price:69,463,000, diff:740,000
+2021-03-15 13:51:23.841 [INFO] : BUY - Waited 45 minutes for 70,203,000, curr_price:69,195,000, diff:1,008,000
+2021-03-15 13:56:59.607 [INFO] : BUY - Waited 50 minutes for 70,203,000, curr_price:69,048,000, diff:1,155,000
+2021-03-15 14:02:35.155 [INFO] : BUY - Waited 55 minutes for 70,203,000, curr_price:69,103,000, diff:1,100,000
+2021-03-15 14:08:10.616 [INFO] : BUY - Waited 60 minutes for 70,203,000, curr_price:69,052,000, diff:1,151,000
+2021-03-15 14:13:47.708 [INFO] : BUY - Waited 65 minutes for 70,203,000, curr_price:68,515,000, diff:1,688,000
+2021-03-15 14:19:23.780 [INFO] : BUY - Waited 70 minutes for 70,203,000, curr_price:68,766,000, diff:1,437,000
+2021-03-15 14:24:59.480 [INFO] : BUY - Waited 75 minutes for 70,203,000, curr_price:68,796,000, diff:1,407,000
+2021-03-15 14:30:35.087 [INFO] : BUY - Waited 80 minutes for 70,203,000, curr_price:68,373,000, diff:1,830,000
+2021-03-15 14:36:09.751 [INFO] : BUY - Waited 85 minutes for 70,203,000, curr_price:68,403,000, diff:1,800,000
+2021-03-15 14:41:46.712 [INFO] : BUY - Waited 90 minutes for 70,203,000, curr_price:68,040,000, diff:2,163,000
+2021-03-15 14:47:22.954 [INFO] : BUY - Waited 95 minutes for 70,203,000, curr_price:67,860,000, diff:2,343,000
+2021-03-15 14:53:18.526 [INFO] : BUY - Waited 100 minutes for 70,203,000, curr_price:67,833,000, diff:2,370,000
+2021-03-15 14:58:53.749 [INFO] : BUY - Waited 105 minutes for 70,203,000, curr_price:67,336,000, diff:2,867,000
+2021-03-15 15:04:29.037 [INFO] : BUY - Waited 110 minutes for 70,203,000, curr_price:67,427,000, diff:2,776,000
+2021-03-15 15:10:03.641 [INFO] : BUY - Waited 115 minutes for 70,203,000, curr_price:67,575,000, diff:2,628,000
+2021-03-15 15:15:39.584 [INFO] : BUY - Waited 120 minutes for 70,203,000, curr_price:67,636,000, diff:2,567,000
+2021-03-15 15:21:16.104 [INFO] : BUY - Waited 125 minutes for 70,203,000, curr_price:67,606,000, diff:2,597,000
+2021-03-15 15:23:08.030 [INFO] : SAVE - Core object saved to core.json
+2021-03-15 15:23:13.115 [INFO] : LOAD - Core object loaded from core.json
+2021-03-15 15:23:17.065 [INFO] : BUY - Waited 0 minutes for 70,203,000, curr_price:67,482,000, diff:2,721,000
+2021-03-15 15:24:27.751 [INFO] : SAVE - Core object saved to core.json
+2021-03-15 15:24:31.464 [INFO] : LOAD - Core object loaded from core.json
+2021-03-15 15:24:35.371 [INFO] : BUY - Waited 0 minutes for 70,203,000, curr_price:67,156,000, diff:3,047,000
+2021-03-15 15:26:06.788 [INFO] : SAVE - Core object saved to core.json
+2021-03-15 15:26:10.870 [INFO] : LOAD - Core object loaded from core.json
+2021-03-15 15:26:14.802 [INFO] : BUY - Waited 0 minutes for 70,203,000, curr_price:67,469,000, diff:2,734,000
+2021-03-15 15:26:48.199 [INFO] : SAVE - Core object saved to core.json
+2021-03-15 15:27:09.605 [INFO] : LOAD - Core object loaded from core.json
+2021-03-15 15:27:12.536 [INFO] : BUY - Waited 0 minutes for 70,203,000, curr_price:67,477,000, diff:2,726,000
+2021-03-15 15:27:16.903 [INFO] : SAVE - Core object saved to core.json
+2021-03-15 15:27:40.614 [INFO] : LOAD - Core object loaded from core.json
+2021-03-15 15:27:43.490 [INFO] : BUY - Waited 0 minutes for 70,203,000, curr_price:67,477,000, diff:2,726,000
+2021-03-15 15:27:51.239 [INFO] : SAVE - Core object saved to core.json
+2021-03-15 15:27:58.787 [INFO] : LOAD - Core object loaded from core.json
+2021-03-15 15:28:01.669 [INFO] : BUY - Waited 0 minutes for 70,203,000, curr_price:67,500,000, diff:2,703,000
+2021-03-15 15:28:43.168 [INFO] : SAVE - Core object saved to core.json
+2021-03-15 15:28:48.259 [INFO] : LOAD - Core object loaded from core.json
+2021-03-15 15:28:51.188 [INFO] : BUY - Waited 0 minutes for 70,203,000, curr_price:67,551,000, diff:2,652,000
+2021-03-15 15:34:27.402 [INFO] : BUY - Waited 5 minutes for 70,203,000, curr_price:67,255,000, diff:2,948,000
+2021-03-15 15:40:05.685 [INFO] : BUY - Waited 10 minutes for 70,203,000, curr_price:67,214,000, diff:2,989,000
+2021-03-15 15:45:42.811 [INFO] : BUY - Waited 15 minutes for 70,203,000, curr_price:66,875,000, diff:3,328,000
+2021-03-15 15:51:20.472 [INFO] : BUY - Waited 20 minutes for 70,203,000, curr_price:67,049,000, diff:3,154,000
+2021-03-15 15:56:59.296 [INFO] : BUY - Waited 25 minutes for 70,203,000, curr_price:66,936,000, diff:3,267,000
+2021-03-15 16:02:37.604 [INFO] : BUY - Waited 30 minutes for 70,203,000, curr_price:66,991,000, diff:3,212,000
+2021-03-15 16:08:15.834 [INFO] : BUY - Waited 35 minutes for 70,203,000, curr_price:66,519,000, diff:3,684,000
+2021-03-15 16:13:53.694 [INFO] : BUY - Waited 40 minutes for 70,203,000, curr_price:66,078,000, diff:4,125,000
+2021-03-15 16:19:30.270 [INFO] : BUY - Waited 45 minutes for 70,203,000, curr_price:65,592,000, diff:4,611,000
+2021-03-15 16:25:09.134 [INFO] : BUY - Waited 50 minutes for 70,203,000, curr_price:65,039,000, diff:5,164,000
+2021-03-15 16:30:48.010 [INFO] : BUY - Waited 55 minutes for 70,203,000, curr_price:65,890,000, diff:4,313,000
+2021-03-15 16:36:26.958 [INFO] : BUY - Waited 60 minutes for 70,203,000, curr_price:65,944,000, diff:4,259,000
+2021-03-15 16:42:06.102 [INFO] : BUY - Waited 65 minutes for 70,203,000, curr_price:66,649,000, diff:3,554,000
+2021-03-15 16:47:41.608 [INFO] : BUY - Waited 70 minutes for 70,203,000, curr_price:66,397,000, diff:3,806,000
+2021-03-15 16:53:17.277 [INFO] : BUY - Waited 75 minutes for 70,203,000, curr_price:66,138,000, diff:4,065,000
+2021-03-15 16:58:52.640 [INFO] : BUY - Waited 80 minutes for 70,203,000, curr_price:66,200,000, diff:4,003,000
+2021-03-15 17:04:27.659 [INFO] : BUY - Waited 85 minutes for 70,203,000, curr_price:66,199,000, diff:4,004,000
+2021-03-15 17:10:02.325 [INFO] : BUY - Waited 90 minutes for 70,203,000, curr_price:66,757,000, diff:3,446,000
+2021-03-15 17:12:45.168 [INFO] : SAVE - Core object saved to core.json
+2021-03-15 17:13:05.686 [INFO] : LOAD - Core object loaded from core.json
+2021-03-15 17:13:08.569 [INFO] : BUY - Waited 0 iterations for 70,203,000, curr_price:66,400,000, diff:3,803,000
+2021-03-15 17:17:25.930 [INFO] : SAVE - Core object saved to core.json
+2021-03-15 17:17:33.364 [INFO] : LOAD - Core object loaded from core.json
+2021-03-15 17:17:36.330 [INFO] : BUY - Waited 0 iterations for 70,203,000, curr_price:66,621,000, diff:3,582,000
+2021-03-15 17:23:10.702 [INFO] : BUY - Waited 300 iterations for 70,203,000, curr_price:66,917,000, diff:3,286,000
+2021-03-15 17:28:46.316 [INFO] : BUY - Waited 600 iterations for 70,203,000, curr_price:67,102,000, diff:3,101,000
+2021-03-15 17:34:19.594 [INFO] : BUY - Waited 900 iterations for 70,203,000, curr_price:66,850,000, diff:3,353,000
+2021-03-15 17:39:56.467 [INFO] : BUY - Waited 1200 iterations for 70,203,000, curr_price:66,652,000, diff:3,551,000
+2021-03-15 17:45:30.524 [INFO] : BUY - Waited 1500 iterations for 70,203,000, curr_price:66,918,000, diff:3,285,000
+2021-03-15 17:51:05.355 [INFO] : BUY - Waited 1800 iterations for 70,203,000, curr_price:66,655,000, diff:3,548,000
+2021-03-15 17:56:43.801 [INFO] : BUY - Waited 2100 iterations for 70,203,000, curr_price:66,507,000, diff:3,696,000
+2021-03-15 18:02:42.809 [INFO] : BUY - Waited 2400 iterations for 70,203,000, curr_price:66,808,000, diff:3,395,000
+2021-03-15 18:08:19.012 [INFO] : BUY - Waited 2700 iterations for 70,203,000, curr_price:66,576,000, diff:3,627,000
+2021-03-15 18:13:56.286 [INFO] : BUY - Waited 3000 iterations for 70,203,000, curr_price:66,300,000, diff:3,903,000
+2021-03-15 18:19:32.361 [INFO] : BUY - Waited 3300 iterations for 70,203,000, curr_price:66,266,000, diff:3,937,000
+2021-03-15 18:25:09.517 [INFO] : BUY - Waited 3600 iterations for 70,203,000, curr_price:64,544,000, diff:5,659,000
+2021-03-15 18:30:46.269 [INFO] : BUY - Waited 3900 iterations for 70,203,000, curr_price:64,878,000, diff:5,325,000
+2021-03-15 18:36:26.033 [INFO] : BUY - Waited 4200 iterations for 70,203,000, curr_price:64,405,000, diff:5,798,000
+2021-03-15 18:42:05.493 [INFO] : BUY - Waited 4500 iterations for 70,203,000, curr_price:63,700,000, diff:6,503,000
+2021-03-15 18:47:44.783 [INFO] : BUY - Waited 4800 iterations for 70,203,000, curr_price:63,872,000, diff:6,331,000
+2021-03-15 18:53:22.119 [INFO] : BUY - Waited 5100 iterations for 70,203,000, curr_price:64,122,000, diff:6,081,000
+2021-03-15 18:58:57.300 [INFO] : BUY - Waited 5400 iterations for 70,203,000, curr_price:64,440,000, diff:5,763,000
+2021-03-15 19:04:32.482 [INFO] : BUY - Waited 5700 iterations for 70,203,000, curr_price:64,238,000, diff:5,965,000
+2021-03-15 19:10:09.568 [INFO] : BUY - Waited 6000 iterations for 70,203,000, curr_price:64,776,000, diff:5,427,000
+2021-03-15 19:15:46.906 [INFO] : BUY - Waited 6300 iterations for 70,203,000, curr_price:64,799,000, diff:5,404,000
+2021-03-15 19:21:23.112 [INFO] : BUY - Waited 6600 iterations for 70,203,000, curr_price:64,781,000, diff:5,422,000
+2021-03-15 19:26:58.870 [INFO] : BUY - Waited 6900 iterations for 70,203,000, curr_price:64,595,000, diff:5,608,000
+2021-03-15 19:32:33.001 [INFO] : BUY - Waited 7200 iterations for 70,203,000, curr_price:64,872,000, diff:5,331,000
+2021-03-15 19:38:08.883 [INFO] : BUY - Waited 7500 iterations for 70,203,000, curr_price:64,809,000, diff:5,394,000
+2021-03-15 19:43:45.329 [INFO] : BUY - Waited 7800 iterations for 70,203,000, curr_price:64,787,000, diff:5,416,000
+2021-03-15 19:49:42.724 [INFO] : BUY - Waited 8100 iterations for 70,203,000, curr_price:65,037,000, diff:5,166,000
+2021-03-15 19:55:19.905 [INFO] : BUY - Waited 8400 iterations for 70,203,000, curr_price:65,150,000, diff:5,053,000
+2021-03-15 20:00:54.901 [INFO] : BUY - Waited 8700 iterations for 70,203,000, curr_price:64,990,000, diff:5,213,000
+2021-03-15 20:06:28.846 [INFO] : BUY - Waited 9000 iterations for 70,203,000, curr_price:65,232,000, diff:4,971,000
+2021-03-15 20:12:04.704 [INFO] : BUY - Waited 9300 iterations for 70,203,000, curr_price:64,846,000, diff:5,357,000
+2021-03-15 20:17:41.183 [INFO] : BUY - Waited 9600 iterations for 70,203,000, curr_price:64,664,000, diff:5,539,000
+2021-03-15 20:23:17.644 [INFO] : BUY - Waited 9900 iterations for 70,203,000, curr_price:64,839,000, diff:5,364,000
+2021-03-15 20:28:51.262 [INFO] : BUY - Waited 10200 iterations for 70,203,000, curr_price:65,125,000, diff:5,078,000
+2021-03-15 20:34:25.750 [INFO] : BUY - Waited 10500 iterations for 70,203,000, curr_price:65,240,000, diff:4,963,000
+2021-03-15 20:40:02.871 [INFO] : BUY - Waited 10800 iterations for 70,203,000, curr_price:65,256,000, diff:4,947,000
+2021-03-15 20:45:38.743 [INFO] : BUY - Waited 11100 iterations for 70,203,000, curr_price:65,324,000, diff:4,879,000
+2021-03-15 20:51:15.211 [INFO] : BUY - Waited 11400 iterations for 70,203,000, curr_price:65,521,000, diff:4,682,000
+2021-03-15 20:56:52.077 [INFO] : BUY - Waited 11700 iterations for 70,203,000, curr_price:65,400,000, diff:4,803,000
+2021-03-15 21:02:28.622 [INFO] : BUY - Waited 12000 iterations for 70,203,000, curr_price:65,131,000, diff:5,072,000
+2021-03-15 21:08:05.492 [INFO] : BUY - Waited 12300 iterations for 70,203,000, curr_price:64,634,000, diff:5,569,000
+2021-03-15 21:13:43.526 [INFO] : BUY - Waited 12600 iterations for 70,203,000, curr_price:64,390,000, diff:5,813,000
+2021-03-15 21:19:20.791 [INFO] : BUY - Waited 12900 iterations for 70,203,000, curr_price:64,230,000, diff:5,973,000
+2021-03-15 21:24:57.267 [INFO] : BUY - Waited 13200 iterations for 70,203,000, curr_price:64,478,000, diff:5,725,000
+2021-03-15 21:30:34.024 [INFO] : BUY - Waited 13500 iterations for 70,203,000, curr_price:64,936,000, diff:5,267,000
+2021-03-15 21:36:10.801 [INFO] : BUY - Waited 13800 iterations for 70,203,000, curr_price:65,032,000, diff:5,171,000
+2021-03-15 21:41:49.555 [INFO] : BUY - Waited 14100 iterations for 70,203,000, curr_price:65,400,000, diff:4,803,000
+2021-03-15 21:47:31.141 [INFO] : BUY - Waited 14400 iterations for 70,203,000, curr_price:65,200,000, diff:5,003,000
+2021-03-15 21:53:08.502 [INFO] : BUY - Waited 14700 iterations for 70,203,000, curr_price:65,610,000, diff:4,593,000
+2021-03-15 21:58:45.097 [INFO] : BUY - Waited 15000 iterations for 70,203,000, curr_price:65,607,000, diff:4,596,000
+2021-03-15 22:04:21.984 [INFO] : BUY - Waited 15300 iterations for 70,203,000, curr_price:65,536,000, diff:4,667,000
+2021-03-15 22:09:59.188 [INFO] : BUY - Waited 15600 iterations for 70,203,000, curr_price:66,096,000, diff:4,107,000
+2021-03-15 22:15:36.170 [INFO] : BUY - Waited 15900 iterations for 70,203,000, curr_price:65,660,000, diff:4,543,000
+2021-03-15 22:21:12.402 [INFO] : BUY - Waited 16200 iterations for 70,203,000, curr_price:65,985,000, diff:4,218,000
+2021-03-15 22:26:49.965 [INFO] : BUY - Waited 16500 iterations for 70,203,000, curr_price:66,002,000, diff:4,201,000
+2021-03-15 22:32:26.311 [INFO] : BUY - Waited 16800 iterations for 70,203,000, curr_price:66,128,000, diff:4,075,000
+2021-03-15 22:38:03.459 [INFO] : BUY - Waited 17100 iterations for 70,203,000, curr_price:66,132,000, diff:4,071,000
+2021-03-15 22:43:40.912 [INFO] : BUY - Waited 17400 iterations for 70,203,000, curr_price:66,210,000, diff:3,993,000
+2021-03-15 22:49:17.823 [INFO] : BUY - Waited 17700 iterations for 70,203,000, curr_price:65,861,000, diff:4,342,000
+2021-03-15 22:54:55.516 [INFO] : BUY - Waited 18000 iterations for 70,203,000, curr_price:66,025,000, diff:4,178,000
+2021-03-15 23:00:33.882 [INFO] : BUY - Waited 18300 iterations for 70,203,000, curr_price:65,875,000, diff:4,328,000
+2021-03-15 23:06:11.678 [INFO] : BUY - Waited 18600 iterations for 70,203,000, curr_price:65,920,000, diff:4,283,000
+2021-03-15 23:11:50.145 [INFO] : BUY - Waited 18900 iterations for 70,203,000, curr_price:66,233,000, diff:3,970,000
+2021-03-15 23:17:51.056 [INFO] : BUY - Waited 19200 iterations for 70,203,000, curr_price:66,048,000, diff:4,155,000
+2021-03-15 23:23:29.372 [INFO] : BUY - Waited 19500 iterations for 70,203,000, curr_price:66,016,000, diff:4,187,000
+2021-03-15 23:29:05.682 [INFO] : BUY - Waited 19800 iterations for 70,203,000, curr_price:65,947,000, diff:4,256,000
+2021-03-15 23:34:42.589 [INFO] : BUY - Waited 20100 iterations for 70,203,000, curr_price:66,083,000, diff:4,120,000
+2021-03-15 23:40:19.891 [INFO] : BUY - Waited 20400 iterations for 70,203,000, curr_price:65,491,000, diff:4,712,000
+2021-03-15 23:48:03.959 [INFO] : BUY - Waited 20700 iterations for 70,203,000, curr_price:65,910,000, diff:4,293,000
+2021-03-15 23:57:16.339 [INFO] : BUY - Waited 21000 iterations for 70,203,000, curr_price:65,438,000, diff:4,765,000
